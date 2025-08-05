@@ -32,8 +32,7 @@ decrypt() {
     fi
 }
 
-# Menu principal
-echo "Escolha a operação desejada:"
+echo "Escolha:"
 echo "1) Criptografar um arquivo"
 echo "2) Descriptografar um arquivo"
 read -p "Digite o número da opção desejada: " opcao
